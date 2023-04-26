@@ -72,4 +72,4 @@ Default web root:
 ```
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
-## Never say never thnks!greateful
+## Never say never thnks!greateful heart indeed.
