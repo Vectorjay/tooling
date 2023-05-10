@@ -75,3 +75,4 @@ Default web root:
 ## Never say never thnks!greateful heart indeedpppp
 # Not an easy ride whew!!
 # Trust the process!!
+# Trust God!!
