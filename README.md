@@ -79,3 +79,4 @@ Default web root:
 # Hallelujah
 #christ is risen!
 # You are simely doing amazing stuff!!
+# Easy lies the head that wears the crown!!
