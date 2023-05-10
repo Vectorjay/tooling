@@ -76,4 +76,4 @@ Default web root:
 # Not an easy ride whew!!
 # A new begining indeed!
 # So excited it worked yay!
-# we are here again!!!! awesome stuff
+# making more sense!
