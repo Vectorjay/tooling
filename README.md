@@ -73,11 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 ## Never say never thnks!greateful heart indeedpppp
-# Not an easy ride whew!!
-# Trust the process!!
-# Trust God!!
-# Sacrifice is the key!!
-# Show me mercy lord
-# wisdom from above!
-# I get backing from God!
-# It is well!!
+# Made it finally! ya!!
