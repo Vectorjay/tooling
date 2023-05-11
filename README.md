@@ -78,3 +78,4 @@ Default web root:
 # Trust God!!
 # Sacrifice is the key!!
 # Show me mercy lord
+# wisdom from above!
