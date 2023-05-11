@@ -77,3 +77,4 @@ Default web root:
 # Trust the process!!
 # Trust God!!
 # Sacrifice is the key!!
+# Show me mercy lord
