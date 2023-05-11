@@ -80,4 +80,4 @@ Default web root:
 # Show me mercy lord
 # wisdom from above!
 # I get backing from God!
-# It shall be well!!
+# It is well!!
